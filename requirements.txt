@@ -1,0 +1,3 @@
+diagrams
+pandas
+openpyxl
